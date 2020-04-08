@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\Csharp\Mercearia\Mercearia\Mercearia\bin\Debug\netcoreapp3.1\Mercearia.exe
+C:\Users\USER\Desktop\Csharp\Mercearia\Mercearia\Mercearia\bin\Debug\netcoreapp3.1\Mercearia.deps.json
+C:\Users\USER\Desktop\Csharp\Mercearia\Mercearia\Mercearia\bin\Debug\netcoreapp3.1\Mercearia.runtimeconfig.json
+C:\Users\USER\Desktop\Csharp\Mercearia\Mercearia\Mercearia\bin\Debug\netcoreapp3.1\Mercearia.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Csharp\Mercearia\Mercearia\Mercearia\bin\Debug\netcoreapp3.1\Mercearia.dll
+C:\Users\USER\Desktop\Csharp\Mercearia\Mercearia\Mercearia\bin\Debug\netcoreapp3.1\Mercearia.pdb
+C:\Users\USER\Desktop\Csharp\Mercearia\Mercearia\Mercearia\obj\Debug\netcoreapp3.1\Mercearia.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Csharp\Mercearia\Mercearia\Mercearia\obj\Debug\netcoreapp3.1\Mercearia.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Csharp\Mercearia\Mercearia\Mercearia\obj\Debug\netcoreapp3.1\Mercearia.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Csharp\Mercearia\Mercearia\Mercearia\obj\Debug\netcoreapp3.1\Mercearia.AssemblyInfo.cs
+C:\Users\USER\Desktop\Csharp\Mercearia\Mercearia\Mercearia\obj\Debug\netcoreapp3.1\Mercearia.dll
+C:\Users\USER\Desktop\Csharp\Mercearia\Mercearia\Mercearia\obj\Debug\netcoreapp3.1\Mercearia.pdb
+C:\Users\USER\Desktop\Csharp\Mercearia\Mercearia\Mercearia\obj\Debug\netcoreapp3.1\Mercearia.genruntimeconfig.cache
